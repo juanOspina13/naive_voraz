@@ -1,0 +1,7 @@
+5
+Raul (Raul,0) (Laura,1) (Pepe,2) (David,2) (Cindy,3)
+Laura (Raul,1) (Laura,0) (Pepe,-2) (David,1) (Cindy,3)
+Pepe (Raul,2) (Laura,-2) (Pepe,0) (David,2) (Cindy,3)
+David (Raul,2) (Laura,1) (Pepe,2) (David,0) (Cindy,2)
+Cindy (Raul,3) (Laura,3) (Pepe,3) (David,2) (Cindy,0)
+( Raul 5 ( Laura 2 ) ( Pepe 1 ( Cindy 4 ) ) ( David -2 ) )
